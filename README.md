@@ -1,8 +1,6 @@
 ﻿# SonicInTheDinosaurLand
 
 ![1](https://github.com/user-attachments/assets/ef383a5e-cc21-44f3-a27b-e29f34906715)
-![2](https://github.com/user-attachments/assets/d6789710-391f-4209-b8ae-8482a904e77b)
-![3](https://github.com/user-attachments/assets/e744a05a-f018-4f3b-af72-368cbb67942e)
 ![4](https://github.com/user-attachments/assets/fc7a272a-9a18-437a-9e43-b8ab0c56d142)
 ![5](https://github.com/user-attachments/assets/c3ecfd9a-7bfe-48f1-b411-9827d00c4f7a)
 ![6](https://github.com/user-attachments/assets/19d29877-f831-4101-862f-65e068108a90)
